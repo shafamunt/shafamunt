@@ -1,3 +1,5 @@
+![Shafayet Muntasir — Computer Engineering at University of Michigan](assets/banner.png)
+
 hey, i'm shafayet — computer engineering student @ umich. software engineering intern at darul uloom michigan, shift lead at michigan its, and on mracing fsae (level 2 high voltage, 600v).
 
 say hi on my [linkedin](https://www.linkedin.com/in/shafayetmuntasir) and check out my [website](https://shafam.dev).
